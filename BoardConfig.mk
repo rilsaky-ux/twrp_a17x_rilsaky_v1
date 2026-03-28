@@ -107,3 +107,11 @@ TW_EXTRA_LANGUAGES := true
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
+
+
+# Version/Maintainer
+TW_DEVICE_VERSION := Rilsaky Stable
+SHRP_MAINTAINER := Rilsaky
+OF_MAINTAINER := Rilsaky
+MAINTAINER := Rilsaky
+
